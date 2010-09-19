@@ -1,0 +1,13 @@
+Preferences2
+===========
+
+This is preferences for ActiveRecord stored as serialized field.
+
+
+Example
+=======
+
+Example goes here.
+
+
+Copyright (c) 2010 pronix , released under the MIT license
